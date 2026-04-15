@@ -1,15 +1,24 @@
 body {
   margin: 0;
-  font-family: Arial;
-  background: #e8ded2;
+  font-family: Arial, sans-serif;
+}
+
+.home {
+  background: url('img/background.jpeg') no-repeat center center;
+  background-size: cover;
+}
+
+.profile {
+  background: url('img/background2.jpeg') no-repeat center center;
+  background-size: cover;
 }
 
 .navbar {
-  background: #b2691b;
+  background: rgba(178, 105, 27, 0.9);
   color: white;
   display: flex;
   align-items: center;
-  padding: 10px;
+  padding: 12px;
 }
 
 .menu {
@@ -20,7 +29,7 @@ body {
 
 #isiMenu {
   display: none;
-  background: #d2a679;
+  background: rgba(210, 166, 121, 0.9);
   padding: 10px;
 }
 
@@ -36,17 +45,31 @@ body {
   background: #f5d7b2;
 }
 
+.home .foto {
+  width: 400px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin: 20px auto;
+  display: block;
+}
+
 .container {
   text-align: center;
-  margin-top: 40px;
+  margin: 60px auto;
+  padding: 25px;
+  border-radius: 15px;
+  width: 70%;
+  color: black;
 }
 
 .foto {
-  width: 300px;
-  height: 250px;
-  border-radius: 10%;
+  width: 360px ;
+  height: 350px ;
   object-fit: cover;
-  margin: 20px 0;
+  border-radius: 10px;
+  display: block;
+  margin: 20px auto;
 }
 
 .anggota ul {
@@ -56,10 +79,4 @@ body {
 
 .anggota li {
   margin: 5px 0;
-}
-body {
-  background-image: url('background.jpeg'); 
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 }

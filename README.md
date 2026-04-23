@@ -48,12 +48,3 @@ Interaksi dasar menggunakan JavaScript
 Project ini dikerjakan secara tim menggunakan GitHub:
 git pull sebelum mulai kerja
 git push setelah selesai update
-
- Penggunaan AI
-Dalam pembuatan project ini, kami menggunakan bantuan AI untuk:
-Membantu pembuatan struktur project
-Memberikan referensi kode HTML, CSS, dan JavaScript
-
-Kalau mau lebih niat lagi, aku bisa tambahin:
-foto tiap anggota di README
-atau tampilan README jadi aesthetic 

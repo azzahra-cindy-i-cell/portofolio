@@ -1,50 +1,26 @@
-g Project Website Sederhana kelompok klinong-klinong
+project portofolio klompok  klinong-klinong
 
-Nama Project :
-Website Profil Sederhana
+ project ini dibuat untuk menampilkan profil anggota yang dikemas dalam portofolio
+yang menggunakan struktur html,css,js
 
- Deskripsi Project :
-Project ini adalah website sederhana yang dibuat untuk menampilkan profil anggota tim menggunakan HTML, CSS, dan JavaScript. Website ini bertujuan untuk melatih kemampuan kolaborasi menggunakan GitHub serta pengembangan web dasar.
 
- Anggota Tim :
-Cindy
-HTML, CSS, JavaScript
-Ayu
-HTML, CSS, JavaScript
-Aysha
-HTML, CSS, JavaScript
-Farah
-HTML, CSS, JavaScript
-Amelia
-HTML, CSS, JavaScript
-Kaysa
-HTML, CSS, JavaScript
+anggota tim =
+~ Azzahra Cindy irawan 
+~ Ayu Kusuma Dewi
+~ Aysha Wahyu 
+~ Farah Indah L.
+~ Kaysa Oktaviana
+~ Khanza Amelia P.
 
-Struktur Project
+keterangan struktur 
+img: berisi gambar
+pages: berisi anggota
+JavaScript: membuat hamburger
+CSS: mempercantik tampilan
+HTML: inti dasar 
 
-/project-folder
--index.html
-- /img
-- /style
-  - style.css
-- /script
-  - script.js
+fitur yang terdapat dalam portofolio:
+halaman profil masing masing anggota
+desain sederhana, rapi dan menarik
 
-Keterangan:
-/img → berisi gambar
-/pages  berisi orng 1-6
-
- Fitur Website
-Halaman profil anggota tim
-Desain sederhana dan rapi
-Interaksi dasar menggunakan JavaScript
-
- Cara Menjalankan Project
-1. Clone repository ini
-2. Buka file index.html di browser
-3. Website siap digunakan
-
- Kolaborasi
-Project ini dikerjakan secara tim menggunakan GitHub:
-git pull sebelum mulai kerja
-git push setelah selesai update
+kolaborasi ini dikerjakan bersama 6 anggota tim, dari di visual studio code langsung di push di github menggunakan kolaborasi

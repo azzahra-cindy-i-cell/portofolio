@@ -23,12 +23,12 @@ HTML, CSS, JavaScript
 Struktur Project
 
 /project-folder
-── index.html
-── /img
-── /style
-── style.css
-── /script
-── script.js
+-index.html
+- /img
+- /style
+  - style.css
+- /script
+  - script.js
 
 Keterangan:
 /img → berisi gambar

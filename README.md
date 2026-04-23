@@ -1,12 +1,12 @@
- Project Website Sederhana kelompok klinong-klinong
+g Project Website Sederhana kelompok klinong-klinong
 
-Nama Project
+Nama Project :
 Website Profil Sederhana
 
- Deskripsi Project
+ Deskripsi Project :
 Project ini adalah website sederhana yang dibuat untuk menampilkan profil anggota tim menggunakan HTML, CSS, dan JavaScript. Website ini bertujuan untuk melatih kemampuan kolaborasi menggunakan GitHub serta pengembangan web dasar.
 
- Anggota Tim
+ Anggota Tim :
 Cindy
 HTML, CSS, JavaScript
 Ayu

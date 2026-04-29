@@ -5,12 +5,12 @@ yang menggunakan struktur html,css,js
 
 
 anggota tim =
-~ Azzahra Cindy irawan 
-~ Ayu Kusuma Dewi
-~ Aysha Wahyu 
-~ Farah Indah L.
-~ Kaysa Oktaviana
-~ Khanza Amelia P.
+~ Azzahra Cindy irawan (html,css,js,add foto)
+~ Ayu Kusuma Dewi (html,css,js,add foto)
+~ Aysha Wahyu (html,css,js,add foto)
+~ Farah Indah L.(html,css,js,add foto)
+~ Kaysa Oktaviana (html,css,js,add foto)
+~ Khanza Amelia P.(html,css,js,add foto)
 
 keterangan struktur 
 img: berisi gambar
